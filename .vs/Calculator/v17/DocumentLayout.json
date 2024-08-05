@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#Project\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC3D0FD-E98A-4CF7-9949-CD31BCDCB864}|Calculator\\Calculator.csproj|e:\\c#project\\calculator\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC3D0FD-E98A-4CF7-9949-CD31BCDCB864}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC3D0FD-E98A-4CF7-9949-CD31BCDCB864}|Calculator\\Calculator.csproj|E:\\C#Project\\Calculator\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFC3D0FD-E98A-4CF7-9949-CD31BCDCB864}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC3D0FD-E98A-4CF7-9949-CD31BCDCB864}|Calculator\\Calculator.csproj|e:\\c#project\\calculator\\calculator\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC3D0FD-E98A-4CF7-9949-CD31BCDCB864}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "calculator.Designer.cs",
+              "DocumentMoniker": "E:\\C#Project\\Calculator\\Calculator\\calculator.Designer.cs",
+              "RelativeDocumentMoniker": "Calculator\\calculator.Designer.cs",
+              "ToolTip": "E:\\C#Project\\Calculator\\Calculator\\calculator.Designer.cs",
+              "RelativeToolTip": "Calculator\\calculator.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:09:06.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculator.cs",
+              "DocumentMoniker": "E:\\C#Project\\Calculator\\Calculator\\calculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\calculator.cs",
+              "ToolTip": "E:\\C#Project\\Calculator\\Calculator\\calculator.cs",
+              "RelativeToolTip": "Calculator\\calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:24:12.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculator.cs [Design]",
+              "DocumentMoniker": "E:\\C#Project\\Calculator\\Calculator\\calculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\calculator.cs",
+              "ToolTip": "E:\\C#Project\\Calculator\\Calculator\\calculator.cs [Design]",
+              "RelativeToolTip": "Calculator\\calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:04:55.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
